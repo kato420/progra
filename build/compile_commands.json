@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kato/Desktop/progra/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/mi_app.dir/main.cpp.o -c /home/kato/Desktop/progra/main.cpp",
+  "file": "/home/kato/Desktop/progra/main.cpp",
+  "output": "CMakeFiles/mi_app.dir/main.cpp.o"
+}
+]
